@@ -1,2 +1,3 @@
-.csv
-*/.csv/*
+# Ignored files
+.DS_Store
+*.csv
